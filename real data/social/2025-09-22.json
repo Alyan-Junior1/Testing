@@ -1,0 +1,96 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U09GV02D42D",
+        "text": "<@U09GV02D42D> has joined the channel",
+        "type": "message",
+        "ts": "1758544602.857859"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09GB3RFL1H",
+                "created": 1758544605,
+                "timestamp": 1758544605,
+                "name": "____________",
+                "title": ":tada::heartpulse::stuck_out_tongue_winking_eye:",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "quip",
+                "pretty_type": "Canvas",
+                "user": "U09GV02D42D",
+                "user_team": "T09GV02BV0R",
+                "editable": true,
+                "size": 1695,
+                "mode": "quip",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GB3RFL1H\/canvas?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GB3RFL1H\/download\/canvas?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/docs\/T09GV02BV0R\/F09GB3RFL1H",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09GB3RFL1H-992456bac6",
+                "url_static_preview": "https:\/\/odoo-testing-group.slack.com\/docs\/T09GV02BV0R\/F09GB3RFL1H\/mobile",
+                "quip_thread_id": "EDf9AAd6gs5",
+                "updated": 1758552123,
+                "update_notification": 1758544606,
+                "canvas_readtime": 0.95624247290245,
+                "is_starred": false,
+                "skipped_shares": true,
+                "teams_shared_with": [],
+                "is_restricted_sharing_enabled": false,
+                "has_rich_preview": false,
+                "file_access": "visible",
+                "access": "owner",
+                "org_or_workspace_access": "none",
+                "title_blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "Ka8Jl",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "emoji",
+                                        "name": "tada",
+                                        "unicode": "1f389"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "heartpulse",
+                                        "unicode": "1f497"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "stuck_out_tongue_winking_eye",
+                                        "unicode": "1f61c"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "canvas_creator_id": "U09GV02D42D",
+                "team_pref_version_history_enabled": true,
+                "canvas_printing_enabled": true,
+                "is_ai_suggested": false
+            }
+        ],
+        "upload": false,
+        "user": "U09GV02D42D",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758544607.305839"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09GBG7HFA7",
+        "text": "<@U09GBG7HFA7> has joined the channel",
+        "type": "message",
+        "ts": "1758548640.048509"
+    }
+]

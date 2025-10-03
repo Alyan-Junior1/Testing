@@ -1,0 +1,20 @@
+🚀 Migration started
+✅ Loaded 2 Slack users
+✅ Loaded 7 channels
+➡️ Importing 2 messages from all-odoo-testing/2025-09-22.json
+Channel exists: all-odoo-testing (id 32)
+➡️ Importing 18 messages from odoo-testing/2025-09-22.json
+Channel exists: odoo-testing (id 34)
+📎 Attached file: real data\downloaded_files_api\image.png
+📎 Attached file: real data\downloaded_files_api\image.png
+📎 Attached file: real data\downloaded_files_api\image.png
+📎 Attached file: real data\downloaded_files_api\image.png
+📎 Attached file: real data\downloaded_files_api\image.png
+➡️ Importing 5 messages from odoo-testing-marketing-support/2025-09-22.json
+Channel exists: odoo-testing-marketing-support (id 31)
+📎 Attached file: real data\downloaded_files_api\list
+📎 Attached file: real data\downloaded_files_api\Odoo_Testing_Marketing_Support_Overview
+➡️ Importing 3 messages from social/2025-09-22.json
+Channel exists: social (id 33)
+📎 Attached file: real data\downloaded_files_api\____________
+✅ Migration completed successfully!

@@ -1,0 +1,256 @@
+[
+  {
+    "id": "C09GLL9E2S0",
+    "created": 1758544744,
+    "creator": "U09GV02D42D",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T09GV02BV0R",
+    "updated": 1758544761436,
+    "name": "odoo-testing-marketing-support",
+    "name_normalized": "odoo-testing-marketing-support",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "A dedicated channel for the Odoo Testing Marketing team to collaborate and support customers or clients effectively. This channel will be used to share resources, updates, and to track ongoing tasks and projects related to customer support.",
+      "creator": "U09GV02D42D",
+      "last_set": 1758544744
+    },
+    "topic": {
+      "value": "Odoo Testing Marketing Support",
+      "creator": "U09GV02D42D",
+      "last_set": 1758544744
+    },
+    "shared_team_ids": [
+      "T09GV02BV0R"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 2,
+    "properties": {
+      "tabs": [
+        {
+          "id": "Ct09GFBUHW78",
+          "label": "Odoo Testing Marketing Support Deals",
+          "type": "list",
+          "data": {
+            "file_id": "F09GFBSNE78",
+            "shared_ts": "1758544760.650099",
+            "bot_user_id": "USLACKBOT",
+            "mute_edit_updates": true
+          }
+        },
+        {
+          "id": "Ct09GFBUMKPG",
+          "label": "Odoo Testing Marketing Support Overview",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09GFBTN4R4",
+            "shared_ts": "1758544761.339209",
+            "bot_user_id": "USLACKBOT",
+            "mute_edit_updates": true
+          }
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct09GFBUHW78",
+          "label": "Odoo Testing Marketing Support Deals",
+          "type": "list",
+          "data": {
+            "file_id": "F09GFBSNE78",
+            "shared_ts": "1758544760.650099",
+            "bot_user_id": "USLACKBOT",
+            "mute_edit_updates": true
+          }
+        },
+        {
+          "id": "Ct09GFBUMKPG",
+          "label": "Odoo Testing Marketing Support Overview",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09GFBTN4R4",
+            "shared_ts": "1758544761.339209",
+            "bot_user_id": "USLACKBOT",
+            "mute_edit_updates": true
+          }
+        }
+      ],
+      "use_case": "project"
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09GV02GDPB",
+    "created": 1758544602,
+    "creator": "U09GV02D42D",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T09GV02BV0R",
+    "updated": 1758544648520,
+    "name": "all-odoo-testing",
+    "name_normalized": "all-odoo-testing",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": true,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Share announcements and updates about company news, upcoming events or teammates who deserve some kudos. ⭐",
+      "creator": "U09GV02D42D",
+      "last_set": 1758544602
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T09GV02BV0R"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 2,
+    "properties": {
+      "use_case": "welcome"
+    },
+    "previous_names": [
+      "all-new-workspace"
+    ]
+  },
+  {
+    "id": "C09GV02JBDF",
+    "created": 1758544602,
+    "creator": "U09GV02D42D",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T09GV02BV0R",
+    "updated": 1758544607648,
+    "name": "social",
+    "name_normalized": "social",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "Other channels are for work. This one’s just for fun. Get to know your teammates and show your lighter side. 🎈",
+      "creator": "U09GV02D42D",
+      "last_set": 1758544602
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T09GV02BV0R"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 2,
+    "properties": {
+      "tabs": [
+        {
+          "id": "Ct09GB3RPMEF",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09GB3RFL1H",
+            "shared_ts": "1758544607.305839"
+          },
+          "label": ""
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct09GB3RPMEF",
+          "type": "canvas",
+          "data": {
+            "file_id": "F09GB3RFL1H",
+            "shared_ts": "1758544607.305839"
+          }
+        }
+      ],
+      "use_case": "random"
+    },
+    "previous_names": []
+  },
+  {
+    "id": "C09H9TM01B2",
+    "created": 1758548864,
+    "creator": "U09GV02D42D",
+    "is_org_shared": false,
+    "is_im": false,
+    "context_team_id": "T09GV02BV0R",
+    "updated": 1758549039866,
+    "name": "odoo-testing",
+    "name_normalized": "odoo-testing",
+    "is_channel": true,
+    "is_group": false,
+    "is_mpim": false,
+    "is_private": false,
+    "is_archived": false,
+    "is_general": false,
+    "is_shared": false,
+    "is_ext_shared": false,
+    "unlinked": 0,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "parent_conversation": null,
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "shared_team_ids": [
+      "T09GV02BV0R"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "num_members": 2,
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": []
+  }
+]

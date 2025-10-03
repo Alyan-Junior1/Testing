@@ -1,0 +1,222 @@
+[
+    {
+        "text": "image",
+        "files": [
+            {
+                "id": "F09HN23KRV0",
+                "created": 1759135609,
+                "timestamp": 1759135609,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "text/plain",
+                "filetype": "text",
+                "pretty_type": "Plain text",
+                "user": "U09GV02D42D",
+                "user_team": "T09GV02BV0R",
+                "editable": true,
+                "size": 49733,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": false,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T09GV02BV0R-F09HN23KRV0/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T09GV02BV0R-F09HN23KRV0/download/image.png",
+                "permalink": "https://odoo-testing-group.slack.com/files/U09GV02D42D/F09HN23KRV0/image.png",
+                "permalink_public": "https://slack-files.com/T09GV02BV0R-F09HN23KRV0-ffc5cf8073",
+                "edit_link": "https://odoo-testing-group.slack.com/files/U09GV02D42D/F09HN23KRV0/image.png/edit",
+                "preview": "<!DOCTYPE html><html lang=\"en-US\" class=\"\" data-primer data-cdn=\"https://a.slack-edge.com/\"><head><script>\n\n(function () {\n\t\n\tvar data;",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\">\n<div class=\"CodeMirror-code\">\n<div><pre>&lt;!DOCTYPE html&gt;&lt;html lang=&quot;en-US&quot; class=&quot;&quot; data-primer data-cdn=&quot;https://a.slack-edge.com/&quot;&gt;&lt;head&gt;&lt;script&gt;</pre></div>\n<div><pre></pre></div>\n<div><pre>(function () {</pre></div>\n<div><pre>    </pre></div>\n<div><pre>    var data;</pre></div>\n</div>\n</div>\n",
+                "lines": 649,
+                "lines_more": 644,
+                "preview_is_truncated": true,
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U09GV02D42D",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vt+pZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "image"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1759135617.533549",
+        "client_msg_id": "bd56cfb9-dd25-4608-b1b7-c2a3f9dfdf72",
+        "user_name": "alyanjunior1"
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1759135598.641329",
+        "client_msg_id": "8540ae5c-03d7-4f5f-9933-22ed07dfb07d",
+        "text": "where are you from",
+        "team": "T09GV02BV0R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+HA/f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "where are you from"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "alyanjunior1"
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1759135589.267009",
+        "client_msg_id": "48221ed4-a056-4e7d-bd94-efd1f01220aa",
+        "text": "i am from bahria enclave Islamabad",
+        "team": "T09GV02BV0R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SUyQS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am from bahria enclave Islamabad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "alyanjunior1"
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1759135579.739989",
+        "client_msg_id": "a03a0f78-3043-4990-be2a-87dd09638743",
+        "text": "i am good",
+        "team": "T09GV02BV0R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOHK/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i am good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "alyanjunior1"
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1759135568.701359",
+        "client_msg_id": "d28f87bf-315d-4142-9b6f-1c125d501cef",
+        "text": "nice to meet you",
+        "team": "T09GV02BV0R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8e0Qw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice to meet you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "alyanjunior1"
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1759135565.072399",
+        "client_msg_id": "a3c0d674-dd57-4a5b-a392-999651206af7",
+        "text": "how are you",
+        "team": "T09GV02BV0R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W9Uyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how are you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "alyanjunior1"
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1759135562.114479",
+        "client_msg_id": "193226fe-3d19-48ec-8eac-ac96275e32f4",
+        "text": "hi",
+        "team": "T09GV02BV0R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a8bcU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "alyanjunior1"
+    }
+]

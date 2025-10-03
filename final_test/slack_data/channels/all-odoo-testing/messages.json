@@ -1,0 +1,18 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U09GBG7HFA7",
+        "text": "<@U09GBG7HFA7> has joined the channel",
+        "type": "message",
+        "ts": "1758548640.029069",
+        "user_name": "asher.rizwan"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09GV02D42D",
+        "text": "<@U09GV02D42D> has joined the channel",
+        "type": "message",
+        "ts": "1758544602.665719",
+        "user_name": "alyanjunior1"
+    }
+]

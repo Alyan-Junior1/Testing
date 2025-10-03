@@ -1,0 +1,90 @@
+[
+{
+    "id": "C09GLL9E2S0",
+    "name": "odoo-testing-marketing-support",
+    "created": 1758544744,
+    "creator": "U09GV02D42D",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U09GBG7HFA7",
+        "U09GV02D42D"
+    ],
+    "topic": {
+        "value": "Odoo Testing Marketing Support",
+        "creator": "U09GV02D42D",
+        "last_set": 1758544744
+    },
+    "purpose": {
+        "value": "A dedicated channel for the Odoo Testing Marketing team to collaborate and support customers or clients effectively. This channel will be used to share resources, updates, and to track ongoing tasks and projects related to customer support.",
+        "creator": "U09GV02D42D",
+        "last_set": 1758544744
+    }
+},
+{
+    "id": "C09GV02GDPB",
+    "name": "all-odoo-testing",
+    "created": 1758544602,
+    "creator": "U09GV02D42D",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U09GBG7HFA7",
+        "U09GV02D42D"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Share announcements and updates about company news, upcoming events or teammates who deserve some kudos. ⭐",
+        "creator": "U09GV02D42D",
+        "last_set": 1758544602
+    }
+},
+{
+    "id": "C09GV02JBDF",
+    "name": "social",
+    "created": 1758544602,
+    "creator": "U09GV02D42D",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U09GBG7HFA7",
+        "U09GV02D42D"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Other channels are for work. This one’s just for fun. Get to know your teammates and show your lighter side. 🎈",
+        "creator": "U09GV02D42D",
+        "last_set": 1758544602
+    }
+},
+{
+    "id": "C09H9TM01B2",
+    "name": "odoo-testing",
+    "created": 1758548864,
+    "creator": "U09GV02D42D",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U09GBG7HFA7",
+        "U09GV02D42D"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+}
+]

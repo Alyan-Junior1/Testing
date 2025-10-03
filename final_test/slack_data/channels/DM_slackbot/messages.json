@@ -1,0 +1,88 @@
+[
+    {
+        "user": "USLACKBOT",
+        "type": "message",
+        "ts": "1758604406.584299",
+        "text": "Your Slack export has completed! You can download the file from <https://odoo-testing-group.slack.com/services/export|your export page>.",
+        "team": "T09GV02BV0R",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FCx8S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your Slack export has completed! You can download the file from "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://odoo-testing-group.slack.com/services/export",
+                                "text": "your export page"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "slackbot"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "Your workspace is on a free trial until 21st October :tada:. Now's a good time to make sure that your whole team is here.",
+        "user": "USLACKBOT",
+        "attachments": [
+            {
+                "id": 1,
+                "fallback": "[no preview available]",
+                "callback_id": "inviteusers_",
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "invite_members",
+                        "text": "Invite new members",
+                        "type": "button",
+                        "value": "",
+                        "style": "primary"
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1758544747.926079",
+        "bot_id": "B01",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nj6tq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your workspace is on a free trial until 21st October "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada",
+                                "unicode": "1f389"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Now's a good time to make sure that your whole team is here."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "BOT"
+    }
+]

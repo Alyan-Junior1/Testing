@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Slackbot: Your Slack export has completed! You can download the file from <https://odoo-testing-group.slack.com/services/export|your export page>.",
+    "files": []
+  },
+  {
+    "text": "Slackbot: Your workspace is on a free trial until 21st October :tada:. Now's a good time to make sure that your whole team is here.",
+    "files": []
+  }
+]

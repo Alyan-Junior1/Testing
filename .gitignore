@@ -1,0 +1,6 @@
+bot-token.txt
+user-token.txt
+__pycache__/
+*.pyc
+*.log
+*.zip

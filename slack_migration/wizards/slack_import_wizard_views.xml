@@ -1,0 +1,26 @@
+<odoo>
+    <record id="view_slack_import_wizard" model="ir.ui.view">
+        <field name="name">slack.import.wizard.form</field>
+        <field name="model">slack.import.wizard</field>
+        <field name="arch" type="xml">
+            <form string="Slack Import">
+                <group>
+                    <field name="folder_path"/>
+                </group>
+                <footer>
+                    <button string="Import" type="object" name="import_slack_data" class="btn-primary"/>
+                    <button string="Cancel" class="btn-secondary" special="cancel"/>
+                </footer>
+            </form>
+        </field>
+    </record>
+
+    <record model="ir.actions.act_window" id="action_slack_import_wizard">
+        <field name="name">Slack Import</field>
+        <field name="res_model">slack.import.wizard</field>
+        <field name="view_mode">form</field>
+        <field name="target">new</field>
+    </record>
+
+    <menuitem id="menu_slack_import_wizard" name="Slack Import" parent="mail.mail_menu_discuss" action="action_slack_import_wizard"/>
+</odoo>

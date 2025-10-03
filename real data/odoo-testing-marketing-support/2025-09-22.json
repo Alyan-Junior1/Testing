@@ -1,0 +1,884 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U09GV02D42D",
+        "text": "<@U09GV02D42D> has joined the channel",
+        "type": "message",
+        "ts": "1758544744.674129"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09GFBSNE78",
+                "created": 1758544745,
+                "timestamp": 1758544745,
+                "name": "list",
+                "title": "Odoo Testing Marketing Support Deals",
+                "mimetype": "application\/vnd.slack-list",
+                "filetype": "list",
+                "pretty_type": "List",
+                "user": "U09GV02D42D",
+                "user_team": "T09GV02BV0R",
+                "editable": true,
+                "size": 0,
+                "mode": "list",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "list_metadata": {
+                    "schema": [
+                        {
+                            "id": "Col09GFBSP1AS",
+                            "name": "Deal",
+                            "key": "name",
+                            "type": "text",
+                            "is_primary_column": true,
+                            "options": {
+                                "format": "text"
+                            }
+                        },
+                        {
+                            "id": "Col09GFBSP5F0",
+                            "name": "Next steps",
+                            "key": "Col07RNNZ6NHE",
+                            "type": "text",
+                            "is_primary_column": false,
+                            "options": {
+                                "format": "text"
+                            }
+                        },
+                        {
+                            "id": "Col09GFBSPBHC",
+                            "name": "Deal owner",
+                            "key": "Col07R2EQHPEG",
+                            "type": "user",
+                            "is_primary_column": false,
+                            "options": {
+                                "format": "single_entity",
+                                "default_value": null,
+                                "show_member_name": true
+                            }
+                        },
+                        {
+                            "id": "Col09GFBSSHML",
+                            "name": "Deal value",
+                            "key": "Col07R2E217HS",
+                            "type": "number",
+                            "is_primary_column": false,
+                            "options": {
+                                "format": "standard",
+                                "precision": 0
+                            }
+                        },
+                        {
+                            "id": "Col09GFBSUV62",
+                            "name": "Stage",
+                            "key": "Col07QX3P6NE9",
+                            "type": "select",
+                            "is_primary_column": false,
+                            "options": {
+                                "choices": [
+                                    {
+                                        "value": "OptPCQPO36S",
+                                        "label": "Evaluating",
+                                        "color": "indigo"
+                                    },
+                                    {
+                                        "value": "Opt8THP0BMA",
+                                        "label": "Qualified",
+                                        "color": "purple"
+                                    },
+                                    {
+                                        "value": "OptKDKVZOEE",
+                                        "label": "Building proposal",
+                                        "color": "gray"
+                                    },
+                                    {
+                                        "value": "Opt19QZ6RZT",
+                                        "label": "Negotiation",
+                                        "color": "orange"
+                                    },
+                                    {
+                                        "value": "OptFE1WBVOU",
+                                        "label": "Won",
+                                        "color": "green"
+                                    },
+                                    {
+                                        "value": "Opt8YQTYL0W",
+                                        "label": "Lost",
+                                        "color": "pink"
+                                    }
+                                ],
+                                "format": "single_select"
+                            }
+                        },
+                        {
+                            "id": "Col09GFBT1NNA",
+                            "name": "Phone number",
+                            "key": "Col07RNP3LYAU",
+                            "type": "phone",
+                            "is_primary_column": false
+                        },
+                        {
+                            "id": "Col09GFBT46FQ",
+                            "name": "Main contact",
+                            "key": "Col07QZV4KUP4",
+                            "type": "text",
+                            "is_primary_column": false,
+                            "options": {
+                                "format": "text"
+                            }
+                        },
+                        {
+                            "id": "Col09GFBT4VPY",
+                            "name": "Email address",
+                            "key": "Col07QTAZULNA",
+                            "type": "email",
+                            "is_primary_column": false
+                        },
+                        {
+                            "id": "Col09GFBT8QDC",
+                            "name": "Priority",
+                            "key": "Col07QZS21FNX",
+                            "type": "rating",
+                            "is_primary_column": false,
+                            "options": {
+                                "emoji": ":fire:",
+                                "emoji_team_id": "T0514RALHL4",
+                                "max": 3
+                            }
+                        },
+                        {
+                            "id": "Col09GFBTGMEJ",
+                            "name": "Channel",
+                            "key": "Col07R2ED70AG",
+                            "type": "channel",
+                            "is_primary_column": false,
+                            "options": {
+                                "format": "single_entity",
+                                "default_value": null,
+                                "show_member_name": true
+                            }
+                        }
+                    ],
+                    "views": [
+                        {
+                            "id": "View09GFBTQCH4",
+                            "name": "Record",
+                            "type": "record",
+                            "is_locked": false,
+                            "position": "1728421632",
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "key": "name",
+                                    "id": "Col09GFBSP1AS",
+                                    "position": "5000000000"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07R2E217HS",
+                                    "id": "Col09GFBSSHML",
+                                    "position": "5000000001"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07QZS21FNX",
+                                    "id": "Col09GFBT8QDC",
+                                    "position": "5000000002"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07QX3P6NE9",
+                                    "id": "Col09GFBSUV62",
+                                    "position": "5000000003"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07R2ED70AG",
+                                    "id": "Col09GFBTGMEJ",
+                                    "position": "5000000004"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07RNNZ6NHE",
+                                    "id": "Col09GFBSP5F0",
+                                    "position": "5000000005"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07QZV4KUP4",
+                                    "id": "Col09GFBT46FQ",
+                                    "position": "5000000006"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07RNP3LYAU",
+                                    "id": "Col09GFBT1NNA",
+                                    "position": "5000000007"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07QTAZULNA",
+                                    "id": "Col09GFBT4VPY",
+                                    "position": "5000000008"
+                                },
+                                {
+                                    "visible": false,
+                                    "key": "Col07R2EQHPEG",
+                                    "id": "Col09GFBSPBHC",
+                                    "position": "5000000009"
+                                }
+                            ],
+                            "date_created": 1758544748,
+                            "created_by": "U09GV02D42D",
+                            "stick_column_left": false,
+                            "is_all_items_view": false
+                        },
+                        {
+                            "id": "View09GFBTPZ2S",
+                            "name": "All items",
+                            "type": "table",
+                            "is_locked": false,
+                            "position": "1728421633",
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "key": "name",
+                                    "id": "Col09GFBSP1AS",
+                                    "position": "5000000000",
+                                    "width": 302,
+                                    "should_wrap_text": false
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2E217HS",
+                                    "id": "Col09GFBSSHML",
+                                    "position": "5000000001",
+                                    "width": 100,
+                                    "should_wrap_text": false
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZS21FNX",
+                                    "id": "Col09GFBT8QDC",
+                                    "position": "5000000002"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QX3P6NE9",
+                                    "id": "Col09GFBSUV62",
+                                    "position": "5000000003"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2ED70AG",
+                                    "id": "Col09GFBTGMEJ",
+                                    "position": "5000000004"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNNZ6NHE",
+                                    "id": "Col09GFBSP5F0",
+                                    "position": "5000000005",
+                                    "width": 232,
+                                    "should_wrap_text": false
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZV4KUP4",
+                                    "id": "Col09GFBT46FQ",
+                                    "position": "5000000006",
+                                    "width": 172,
+                                    "should_wrap_text": false
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNP3LYAU",
+                                    "id": "Col09GFBT1NNA",
+                                    "position": "5000000007",
+                                    "width": 148,
+                                    "should_wrap_text": false
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QTAZULNA",
+                                    "id": "Col09GFBT4VPY",
+                                    "position": "5000000008"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2EQHPEG",
+                                    "id": "Col09GFBSPBHC",
+                                    "position": "5000000009"
+                                }
+                            ],
+                            "date_created": 1758544747,
+                            "created_by": "U09GV02D42D",
+                            "stick_column_left": false,
+                            "is_all_items_view": true,
+                            "default_view_key": "all_items"
+                        },
+                        {
+                            "id": "View09GFBTHQSJ",
+                            "name": "Pipeline",
+                            "type": "table",
+                            "is_locked": false,
+                            "position": "1728422023",
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "key": "name",
+                                    "id": "Col09GFBSP1AS",
+                                    "position": "5000000000"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2E217HS",
+                                    "id": "Col09GFBSSHML",
+                                    "position": "5000000001"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZS21FNX",
+                                    "id": "Col09GFBT8QDC",
+                                    "position": "5000000002"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QX3P6NE9",
+                                    "id": "Col09GFBSUV62",
+                                    "position": "5000000003"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2ED70AG",
+                                    "id": "Col09GFBTGMEJ",
+                                    "position": "5000000004"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNNZ6NHE",
+                                    "id": "Col09GFBSP5F0",
+                                    "position": "5000000005"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZV4KUP4",
+                                    "id": "Col09GFBT46FQ",
+                                    "position": "5000000006"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNP3LYAU",
+                                    "id": "Col09GFBT1NNA",
+                                    "position": "5000000007"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QTAZULNA",
+                                    "id": "Col09GFBT4VPY",
+                                    "position": "5000000008"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2EQHPEG",
+                                    "id": "Col09GFBSPBHC",
+                                    "position": "5000000009"
+                                }
+                            ],
+                            "date_created": 1758544746,
+                            "created_by": "U09GV02D42D",
+                            "sorts": [
+                                {
+                                    "key": "Col07R2E217HS",
+                                    "ascending": false,
+                                    "column_id": "Col09GFBSSHML"
+                                }
+                            ],
+                            "grouping": {
+                                "group_by": "Col07QX3P6NE9",
+                                "group_by_column_id": "Col09GFBSUV62"
+                            },
+                            "stick_column_left": false,
+                            "is_all_items_view": false
+                        },
+                        {
+                            "id": "View09GFBTR4BY",
+                            "name": "My deals",
+                            "type": "table",
+                            "is_locked": false,
+                            "position": "1728422062",
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "key": "name",
+                                    "id": "Col09GFBSP1AS",
+                                    "position": "5000000000"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2E217HS",
+                                    "id": "Col09GFBSSHML",
+                                    "position": "5000000001"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZS21FNX",
+                                    "id": "Col09GFBT8QDC",
+                                    "position": "5000000002"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QX3P6NE9",
+                                    "id": "Col09GFBSUV62",
+                                    "position": "5000000003"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2ED70AG",
+                                    "id": "Col09GFBTGMEJ",
+                                    "position": "5000000004"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNNZ6NHE",
+                                    "id": "Col09GFBSP5F0",
+                                    "position": "5000000005"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZV4KUP4",
+                                    "id": "Col09GFBT46FQ",
+                                    "position": "5000000006"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNP3LYAU",
+                                    "id": "Col09GFBT1NNA",
+                                    "position": "5000000007"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QTAZULNA",
+                                    "id": "Col09GFBT4VPY",
+                                    "position": "5000000008"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2EQHPEG",
+                                    "id": "Col09GFBSPBHC",
+                                    "position": "5000000009"
+                                }
+                            ],
+                            "date_created": 1758544751,
+                            "created_by": "U09GV02D42D",
+                            "sorts": [
+                                {
+                                    "key": "Col07R2E217HS",
+                                    "ascending": false,
+                                    "column_id": "Col09GFBSSHML"
+                                }
+                            ],
+                            "filters": [
+                                {
+                                    "key": "Col07R2EQHPEG",
+                                    "operator": "contains",
+                                    "values": [
+                                        "viewer"
+                                    ],
+                                    "column_id": "Col09GFBSPBHC"
+                                }
+                            ],
+                            "grouping": {
+                                "group_by": "Col07QX3P6NE9",
+                                "group_by_column_id": "Col09GFBSUV62"
+                            },
+                            "stick_column_left": false,
+                            "is_all_items_view": false
+                        },
+                        {
+                            "id": "View09GFBTQSGN",
+                            "name": "Top opportunities",
+                            "type": "table",
+                            "is_locked": false,
+                            "position": "1728422095",
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "key": "name",
+                                    "id": "Col09GFBSP1AS",
+                                    "position": "5000000000"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2E217HS",
+                                    "id": "Col09GFBSSHML",
+                                    "position": "5000000001"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZS21FNX",
+                                    "id": "Col09GFBT8QDC",
+                                    "position": "5000000002"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QX3P6NE9",
+                                    "id": "Col09GFBSUV62",
+                                    "position": "5000000003"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2ED70AG",
+                                    "id": "Col09GFBTGMEJ",
+                                    "position": "5000000004"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNNZ6NHE",
+                                    "id": "Col09GFBSP5F0",
+                                    "position": "5000000005"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZV4KUP4",
+                                    "id": "Col09GFBT46FQ",
+                                    "position": "5000000006"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNP3LYAU",
+                                    "id": "Col09GFBT1NNA",
+                                    "position": "5000000007"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QTAZULNA",
+                                    "id": "Col09GFBT4VPY",
+                                    "position": "5000000008"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2EQHPEG",
+                                    "id": "Col09GFBSPBHC",
+                                    "position": "5000000009"
+                                }
+                            ],
+                            "date_created": 1758544749,
+                            "created_by": "U09GV02D42D",
+                            "filters": [
+                                {
+                                    "key": "Col07QZS21FNX",
+                                    "operator": "contains",
+                                    "values": [
+                                        "3"
+                                    ],
+                                    "column_id": "Col09GFBT8QDC"
+                                }
+                            ],
+                            "stick_column_left": false,
+                            "is_all_items_view": false
+                        },
+                        {
+                            "id": "View09GFBTQZNJ",
+                            "name": "New leads",
+                            "type": "table",
+                            "is_locked": false,
+                            "position": "1728422121",
+                            "columns": [
+                                {
+                                    "visible": true,
+                                    "key": "name",
+                                    "id": "Col09GFBSP1AS",
+                                    "position": "5000000000"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2E217HS",
+                                    "id": "Col09GFBSSHML",
+                                    "position": "5000000001"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZS21FNX",
+                                    "id": "Col09GFBT8QDC",
+                                    "position": "5000000002"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QX3P6NE9",
+                                    "id": "Col09GFBSUV62",
+                                    "position": "5000000003"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2ED70AG",
+                                    "id": "Col09GFBTGMEJ",
+                                    "position": "5000000004"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNNZ6NHE",
+                                    "id": "Col09GFBSP5F0",
+                                    "position": "5000000005"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QZV4KUP4",
+                                    "id": "Col09GFBT46FQ",
+                                    "position": "5000000006"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07RNP3LYAU",
+                                    "id": "Col09GFBT1NNA",
+                                    "position": "5000000007"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07QTAZULNA",
+                                    "id": "Col09GFBT4VPY",
+                                    "position": "5000000008"
+                                },
+                                {
+                                    "visible": true,
+                                    "key": "Col07R2EQHPEG",
+                                    "id": "Col09GFBSPBHC",
+                                    "position": "5000000009"
+                                }
+                            ],
+                            "date_created": 1758544750,
+                            "created_by": "U09GV02D42D",
+                            "filters": [
+                                {
+                                    "key": "Col07QX3P6NE9",
+                                    "operator": "contains",
+                                    "values": [
+                                        "OptPCQPO36S"
+                                    ],
+                                    "column_id": "Col09GFBSUV62"
+                                }
+                            ],
+                            "grouping": {
+                                "group_by": "Col07QX3P6NE9",
+                                "group_by_column_id": "Col09GFBSUV62"
+                            },
+                            "stick_column_left": false,
+                            "is_all_items_view": false
+                        }
+                    ],
+                    "integrations": [],
+                    "icon": "",
+                    "description": "",
+                    "description_blocks": [
+                        {
+                            "type": "rich_text",
+                            "block_id": "5HQCw",
+                            "elements": [
+                                {
+                                    "type": "rich_text_section",
+                                    "elements": [
+                                        {
+                                            "text": "A lightweight tracker for sales outreach",
+                                            "type": "text"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "is_trial": false,
+                    "creation_source": {
+                        "type": "copy_from_list",
+                        "reference_id": "F07QTAB2YQ6"
+                    }
+                },
+                "list_limits": {
+                    "over_row_maximum": false,
+                    "row_count_limit": 1000,
+                    "row_count": 3,
+                    "archived_row_count": 0,
+                    "over_column_maximum": false,
+                    "column_count": 10,
+                    "column_count_limit": 30,
+                    "over_view_maximum": false,
+                    "view_count": 6,
+                    "view_count_limit": 50,
+                    "max_attachments_per_cell": 10
+                },
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GFBSNE78\/list?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GFBSNE78\/download\/list?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/lists\/T09GV02BV0R\/F09GFBSNE78",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09GFBSNE78-dff75de7b3",
+                "last_editor": "U09GV02D42D",
+                "list_csv_download_url": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GFBSNE78\/csv\/list?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "updated": 1758544759,
+                "is_starred": false,
+                "skipped_shares": true,
+                "teams_shared_with": [],
+                "is_restricted_sharing_enabled": false,
+                "has_rich_preview": false,
+                "file_access": "visible",
+                "access": "owner",
+                "org_or_workspace_access": "none",
+                "is_ai_suggested": false
+            }
+        ],
+        "upload": false,
+        "user": "U09GV02D42D",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758544760.650099"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09GFBTN4R4",
+                "created": 1758544746,
+                "timestamp": 1758544746,
+                "name": "Odoo_Testing_Marketing_Support_Overview",
+                "title": "Odoo Testing Marketing Support Overview",
+                "mimetype": "application\/vnd.slack-docs",
+                "filetype": "quip",
+                "pretty_type": "Canvas",
+                "user": "U09GV02D42D",
+                "user_team": "T09GV02BV0R",
+                "editable": true,
+                "size": 2935,
+                "mode": "quip",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GFBTN4R4\/canvas?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GFBTN4R4\/download\/canvas?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/docs\/T09GV02BV0R\/F09GFBTN4R4",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09GFBTN4R4-518ca401cd",
+                "url_static_preview": "https:\/\/odoo-testing-group.slack.com\/docs\/T09GV02BV0R\/F09GFBTN4R4\/mobile",
+                "quip_thread_id": "VBG9AANE0WS",
+                "updated": 1758552249,
+                "update_notification": 1758544760,
+                "canvas_readtime": 1.8883982336411,
+                "is_starred": false,
+                "skipped_shares": true,
+                "teams_shared_with": [],
+                "is_restricted_sharing_enabled": false,
+                "has_rich_preview": false,
+                "file_access": "visible",
+                "access": "owner",
+                "org_or_workspace_access": "none",
+                "title_blocks": [
+                    {
+                        "type": "rich_text",
+                        "block_id": "TpZrv",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Odoo Testing Marketing Support Overview"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "canvas_creator_id": "U09GV02D42D",
+                "team_pref_version_history_enabled": true,
+                "canvas_printing_enabled": true,
+                "source_canvas_id": "F084XSQ78BT",
+                "is_ai_suggested": false
+            }
+        ],
+        "upload": false,
+        "user": "U09GV02D42D",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758544761.339209"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "Hey *Alyan Junior*, welcome to *odoo-testing-marketing-support*! This is a place to keep your team's discussions and resources organized. Start by reviewing the *Odoo Testing Marketing Support Deals* and the *Odoo Testing Marketing Support Overview* documents we've added to the channel, and add or remove details as needed. And if you're ready, invite your teammates to start collaborating!",
+        "user": "USLACKBOT",
+        "type": "message",
+        "ts": "1758544761.510409",
+        "bot_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IY6Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Alyan Junior",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", welcome to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "odoo-testing-marketing-support",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This is a place to keep your team's discussions and resources organized. Start by reviewing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Testing Marketing Support Deals",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Testing Marketing Support Overview",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " documents we've added to the channel, and add or remove details as needed. And if you're ready, invite your teammates to start collaborating!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09GBG7HFA7",
+        "text": "<@U09GBG7HFA7> has joined the channel",
+        "type": "message",
+        "ts": "1758548639.999069"
+    }
+]

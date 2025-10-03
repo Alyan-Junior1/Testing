@@ -1,0 +1,88 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U09GBG7HFA7",
+        "text": "<@U09GBG7HFA7> has joined the channel",
+        "type": "message",
+        "ts": "1758548639.999069",
+        "user_name": "asher.rizwan"
+    },
+    {
+        "subtype": "bot_message",
+        "text": "Hey *Alyan Junior*, welcome to *odoo-testing-marketing-support*! This is a place to keep your team's discussions and resources organized. Start by reviewing the *Odoo Testing Marketing Support Deals* and the *Odoo Testing Marketing Support Overview* documents we've added to the channel, and add or remove details as needed. And if you're ready, invite your teammates to start collaborating!",
+        "user": "USLACKBOT",
+        "type": "message",
+        "ts": "1758544761.510409",
+        "bot_id": "USLACKBOT",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AkJO9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Alyan Junior",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", welcome to "
+                            },
+                            {
+                                "type": "text",
+                                "text": "odoo-testing-marketing-support",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "! This is a place to keep your team's discussions and resources organized. Start by reviewing the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Testing Marketing Support Deals",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " and the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Testing Marketing Support Overview",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " documents we've added to the channel, and add or remove details as needed. And if you're ready, invite your teammates to start collaborating!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user_name": "BOT"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09GV02D42D",
+        "text": "<@U09GV02D42D> has joined the channel",
+        "type": "message",
+        "ts": "1758544744.674129",
+        "user_name": "alyanjunior1"
+    }
+]

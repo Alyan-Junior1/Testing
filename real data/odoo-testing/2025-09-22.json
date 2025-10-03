@@ -1,0 +1,1838 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U09GV02D42D",
+        "text": "<@U09GV02D42D> has joined the channel",
+        "type": "message",
+        "ts": "1758548865.112009"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U09GBG7HFA7",
+        "text": "<@U09GBG7HFA7> has joined the channel",
+        "inviter": "U09GV02D42D",
+        "type": "message",
+        "ts": "1758548872.444019"
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1758548901.842029",
+        "client_msg_id": "3daf4b58-9fa1-43f5-8e11-c79f184a6f47",
+        "text": "Wellcome to new Channel",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "7f7e80f7fc61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-22\/9545176639463_7f7e80f7fc613b31c09a_72.png",
+            "first_name": "Alyan",
+            "real_name": "Alyan Junior",
+            "display_name": "",
+            "team": "T09GV02BV0R",
+            "name": "alyanjunior1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N9jPD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wellcome to new Channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1758548926.335849",
+        "client_msg_id": "a8e71038-d7f4-4698-8c59-f411ca7ec10d",
+        "text": "This channel only created for testying purpose",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "7f7e80f7fc61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-22\/9545176639463_7f7e80f7fc613b31c09a_72.png",
+            "first_name": "Alyan",
+            "real_name": "Alyan Junior",
+            "display_name": "",
+            "team": "T09GV02BV0R",
+            "name": "alyanjunior1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wxV1o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This channel only created for testying purpose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GV02D42D",
+        "type": "message",
+        "ts": "1758548936.316549",
+        "client_msg_id": "4b3f7112-b01e-4a93-bbdb-55799bb77bd4",
+        "text": "testing*",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "7f7e80f7fc61",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2025-09-22\/9545176639463_7f7e80f7fc613b31c09a_72.png",
+            "first_name": "Alyan",
+            "real_name": "Alyan Junior",
+            "display_name": "",
+            "team": "T09GV02BV0R",
+            "name": "alyanjunior1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gU5o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "testing*"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758548962.558429",
+        "client_msg_id": "77d9f7f8-0e8b-415c-91fe-1f3d74969e68",
+        "text": "okay",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cixRH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758548970.573689",
+        "client_msg_id": "503d588b-75e4-403c-bdd9-e57cb536bbfe",
+        "text": "Here are the key features of *Odoo Enterprise* (what you get beyond the Community \/ free edition), plus how they differ \/ what added value they deliver. If you want, I can also list features specific to Odoo version 18 (latest) or compare “must-have” ones for a specific type of business.\n\nWhat is Odoo Enterprise\n• Odoo Enterprise is the commercial\/premium version of Odoo. It includes all the capabilities of the Community edition plus extra advanced features, official support, more polish, and additional modules. (<https:\/\/blogs.odoocommunitymobile.com\/odoo\/what-is-odoo-enterprise?utm_source=chatgpt.com|Odoo Community Mobile Blogs>)\n• It is subscription-based, user-\/app-based pricing. (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)\n• Offers flexible deployment: on-premise, cloud (Odoo Online), Odoo.sh, etc. (<https:\/\/www.odooexpress.com\/odoo\/erp\/odoo-community-vs-enterprise-features?utm_source=chatgpt.com|OdooExpress>)\nMajor Enterprise-Exclusive Features\nHere are the features and capabilities you get with Enterprise that are either limited or missing in Community:\n   Category Enterprise Adds \/ Enhances …     *User Interface \/ Accessibility* Fully responsive design (mobile\/tablet friendly), mobile app support. (<https:\/\/www.odoo.com\/forum\/help-1\/difference-between-enterprise-and-community-editions-86455?utm_source=chatgpt.com|Odoo>)   *Support, Upgrades &amp; Maintenance* Official technical support from Odoo, automated upgrades, security patches, bug-fixes. (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)   *Customisation Tools* Odoo Studio: drag-and-drop app builder \/ UI customizer. Modify views, screens, reports without deep coding. (<https:\/\/www.abbacustechnologies.com\/odoo-community-vs-enterprise-key-differences-explained\/?utm_source=chatgpt.com|Abbacus Technologies ->)   *Modules \/ Apps beyond Core* Many extra apps\/modules:   • Document Management System (Documents) (<https:\/\/blogs.odoocommunitymobile.com\/odoo\/what-is-odoo-enterprise?utm_source=chatgpt.com|Odoo Community Mobile Blogs>)    • Helpdesk \/ Support ticketing (<https:\/\/softhealer.com\/blog\/articals-11\/what-is-the-difference-between-odoo-community-and-enterprise-12816?utm_source=chatgpt.com|Website>)    • Digital Signature (“Sign”) (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)    • Marketing Automation, advanced email \/ social media marketing tools, campaign workflows (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)    • Subscriptions (automated recurring billing) (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)    • Product Lifecycle Management (PLM), manufacturing enhancements\/full Manufacturing Resource Planning (MRP) (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)    • Quality Management (quality checks etc.) (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)    *Supply Chain \/ Inventory Enhancements* Barcode scanning, shipping connectors (FedEx, UPS etc.), advanced routing, real-time valuation, multi-warehouse support, cross-docking. (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)   *Accounting \/ Finance* More extensive accounting features: bank reconciliation, analytic accounting, budgets, consolidation, localizations, possibly OCR for vendor bills, payroll, etc. (<https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com|OBS Solutions>)   *Multi-company &amp; Inter-company Flows* Enterprise supports more automated workflows in multi-company setups (e.g. automatic synchronization of inter-company documents). (<https:\/\/www.odoo.com\/forum\/help-1\/odoo-18-0-enterprise-vs-community-on-premise-and-iot-274706?utm_source=chatgpt.com|Odoo>)   *IoT \/ Devices* Integration with physical devices (barcode scanners, printers etc.) through IoT modules. (<https:\/\/www.odoo.com\/forum\/help-1\/odoo-18-0-enterprise-vs-community-on-premise-and-iot-274706?utm_source=chatgpt.com|Odoo>)\nTrade-Offs \/ Things to Check\n• Cost: Because it's subscription based, costs can rise with more users\/modules. (<https:\/\/www.odoo-bs.com\/about-odoo?utm_source=chatgpt.com|OBS Solutions>)\n• Sometimes dependency on Odoo and partners for support and updates.\n• You’ll want to verify which modules are available in your country, especially financial localizations.\nIf you tell me your business size, industry, or which modules you're considering (manufacturing, HR, eCommerce, etc.), I can suggest which Enterprise features you’ll most likely benefit from.",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/blogs.odoocommunitymobile.com\/odoo\/what-is-odoo-enterprise?utm_source=chatgpt.com",
+                "ts": 1676056902,
+                "id": 1,
+                "original_url": "https:\/\/blogs.odoocommunitymobile.com\/odoo\/what-is-odoo-enterprise?utm_source=chatgpt.com",
+                "fallback": "My Company: What is Odoo Enterprise? | Odoo Community Mobile",
+                "text": "Odoo Enterprise is Odoo Community with more functionality and vice versa. It enhances responsiveness, effectiveness, and browser compatibility for mobile devices.",
+                "title": "What is Odoo Enterprise? | Odoo Community Mobile",
+                "title_link": "https:\/\/blogs.odoocommunitymobile.com\/odoo\/what-is-odoo-enterprise?utm_source=chatgpt.com",
+                "service_name": "My Company"
+            },
+            {
+                "from_url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                "image_url": "https:\/\/www.odoo-bs.com\/web\/image\/1588589-d2afebdb\/Schaubild%20%284%29.png",
+                "image_width": 1920,
+                "image_height": 826,
+                "image_bytes": 187565,
+                "service_icon": "https:\/\/www.odoo-bs.com\/web\/image\/website\/1\/favicon?unique=58e4e15",
+                "id": 2,
+                "original_url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                "fallback": "OBS Solutions: Odoo Enterprise | Get a quote now",
+                "text": "Maximize your business potential with Odoo Enterprise: exclusive features, free upgrades and expert support.",
+                "title": "Odoo Enterprise | Get a quote now",
+                "title_link": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                "service_name": "OBS Solutions"
+            },
+            {
+                "from_url": "https:\/\/www.odooexpress.com\/odoo\/erp\/odoo-community-vs-enterprise-features?utm_source=chatgpt.com",
+                "service_icon": "https:\/\/www.odooexpress.com\/static\/home\/logo_smo.png",
+                "id": 3,
+                "original_url": "https:\/\/www.odooexpress.com\/odoo\/erp\/odoo-community-vs-enterprise-features?utm_source=chatgpt.com",
+                "fallback": "Odoo Express: Odoo Community vs Enterprise Features | Odoo Express",
+                "text": "Odoo Community is a fully open-source version, offering businesses flexibility, customization, and cost-effectiveness. In contrast, Odoo Enterprise is licensed, with additional features and support for greater scalability and specialized needs. Explore which version fits your business best.",
+                "title": "Odoo Community vs Enterprise Features | Odoo Express",
+                "title_link": "https:\/\/www.odooexpress.com\/odoo\/erp\/odoo-community-vs-enterprise-features?utm_source=chatgpt.com",
+                "service_name": "Odoo Express"
+            },
+            {
+                "from_url": "https:\/\/www.odoo.com\/forum\/help-1\/difference-between-enterprise-and-community-editions-86455?utm_source=chatgpt.com",
+                "thumb_url": "https:\/\/www.odoo.com\/web\/image\/res.users\/463534\/image_1024?unique=5a2689e",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/odoocdn.com\/web\/image\/website\/1\/favicon?unique=8520d41",
+                "id": 4,
+                "original_url": "https:\/\/www.odoo.com\/forum\/help-1\/difference-between-enterprise-and-community-editions-86455?utm_source=chatgpt.com",
+                "fallback": "Odoo: Difference between Enterprise and Community Editions",
+                "text": "What are the differences. I have heard that the Enterprise Edition will have a different UI (as they have been promoting) but the community will have the old one. If this is true this will be a very bad move for Odoo as far as attracting clients that want to first use the community edition as to determine wither or not to use the Enterprise Edition. I know our team on hearing the news is now no longer considering Odoo for future recommendations.",
+                "title": "Difference between Enterprise and Community Editions",
+                "title_link": "https:\/\/www.odoo.com\/forum\/help-1\/difference-between-enterprise-and-community-editions-86455?utm_source=chatgpt.com",
+                "service_name": "Odoo"
+            },
+            {
+                "from_url": "https:\/\/www.abbacustechnologies.com\/odoo-community-vs-enterprise-key-differences-explained\/?utm_source=chatgpt.com",
+                "ts": 1743243105,
+                "service_icon": "https:\/\/www.abbacustechnologies.com\/wp-content\/uploads\/2021\/08\/favicon.png",
+                "id": 5,
+                "original_url": "https:\/\/www.abbacustechnologies.com\/odoo-community-vs-enterprise-key-differences-explained\/?utm_source=chatgpt.com",
+                "fallback": "Abbacus Technologies -: Odoo Community vs Enterprise: Key Differences Explained - Abbacus Technologies",
+                "text": "Part 1: Introduction to Odoo and Its Editions What is Odoo? Odoo is an open-source business management software that provides an integrated suite of applications for businesses of all sizes. From small startups to large enterprises, Odoo offers a wide range of modules, including CRM, sales, inventory, accounting, HR, and more. What makes Odoo unique",
+                "title": "Odoo Community vs Enterprise: Key Differences Explained - Abbacus Technologies",
+                "title_link": "https:\/\/www.abbacustechnologies.com\/odoo-community-vs-enterprise-key-differences-explained\/?utm_source=chatgpt.com",
+                "service_name": "Abbacus Technologies -"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ha+3o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are the key features of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Enterprise",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (what you get beyond the Community \/ free edition), plus how they differ \/ what added value they deliver. If you want, I can also list features specific to Odoo version 18 (latest) or compare “must-have” ones for a specific type of business.\n\nWhat is Odoo Enterprise\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Odoo Enterprise is the commercial\/premium version of Odoo. It includes all the capabilities of the Community edition plus extra advanced features, official support, more polish, and additional modules. ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/blogs.odoocommunitymobile.com\/odoo\/what-is-odoo-enterprise?utm_source=chatgpt.com",
+                                        "text": "Odoo Community Mobile Blogs"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "It is subscription-based, user-\/app-based pricing. ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                        "text": "OBS Solutions"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Offers flexible deployment: on-premise, cloud (Odoo Online), Odoo.sh, etc. ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.odooexpress.com\/odoo\/erp\/odoo-community-vs-enterprise-features?utm_source=chatgpt.com",
+                                        "text": "OdooExpress"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nMajor Enterprise-Exclusive Features\nHere are the features and capabilities you get with Enterprise that are either limited or missing in Community:\n   Category Enterprise Adds \/ Enhances …     "
+                            },
+                            {
+                                "type": "text",
+                                "text": "User Interface \/ Accessibility",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Fully responsive design (mobile\/tablet friendly), mobile app support. ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo.com\/forum\/help-1\/difference-between-enterprise-and-community-editions-86455?utm_source=chatgpt.com",
+                                "text": "Odoo"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Support, Upgrades & Maintenance",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Official technical support from Odoo, automated upgrades, security patches, bug-fixes. ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Customisation Tools",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Odoo Studio: drag-and-drop app builder \/ UI customizer. Modify views, screens, reports without deep coding. ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.abbacustechnologies.com\/odoo-community-vs-enterprise-key-differences-explained\/?utm_source=chatgpt.com",
+                                "text": "Abbacus Technologies -"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Modules \/ Apps beyond Core",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Many extra apps\/modules:   • Document Management System (Documents) ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blogs.odoocommunitymobile.com\/odoo\/what-is-odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "Odoo Community Mobile Blogs"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")    • Helpdesk \/ Support ticketing ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/softhealer.com\/blog\/articals-11\/what-is-the-difference-between-odoo-community-and-enterprise-12816?utm_source=chatgpt.com",
+                                "text": "Website"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")    • Digital Signature (“Sign”) ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")    • Marketing Automation, advanced email \/ social media marketing tools, campaign workflows ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")    • Subscriptions (automated recurring billing) ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")    • Product Lifecycle Management (PLM), manufacturing enhancements\/full Manufacturing Resource Planning (MRP) ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")    • Quality Management (quality checks etc.) ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")    "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Supply Chain \/ Inventory Enhancements",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Barcode scanning, shipping connectors (FedEx, UPS etc.), advanced routing, real-time valuation, multi-warehouse support, cross-docking. ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Accounting \/ Finance",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " More extensive accounting features: bank reconciliation, analytic accounting, budgets, consolidation, localizations, possibly OCR for vendor bills, payroll, etc. ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo-bs.com\/odoo-enterprise?utm_source=chatgpt.com",
+                                "text": "OBS Solutions"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Multi-company & Inter-company Flows",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Enterprise supports more automated workflows in multi-company setups (e.g. automatic synchronization of inter-company documents). ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo.com\/forum\/help-1\/odoo-18-0-enterprise-vs-community-on-premise-and-iot-274706?utm_source=chatgpt.com",
+                                "text": "Odoo"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")   "
+                            },
+                            {
+                                "type": "text",
+                                "text": "IoT \/ Devices",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Integration with physical devices (barcode scanners, printers etc.) through IoT modules. ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.odoo.com\/forum\/help-1\/odoo-18-0-enterprise-vs-community-on-premise-and-iot-274706?utm_source=chatgpt.com",
+                                "text": "Odoo"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")\nTrade-Offs \/ Things to Check\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Cost: Because it's subscription based, costs can rise with more users\/modules. ("
+                                    },
+                                    {
+                                        "type": "link",
+                                        "url": "https:\/\/www.odoo-bs.com\/about-odoo?utm_source=chatgpt.com",
+                                        "text": "OBS Solutions"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ")"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Sometimes dependency on Odoo and partners for support and updates."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "You’ll want to verify which modules are available in your country, especially financial localizations."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\nIf you tell me your business size, industry, or which modules you're considering (manufacturing, HR, eCommerce, etc.), I can suggest which Enterprise features you’ll most likely benefit from."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U09GV02D42D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758549020.759319",
+        "client_msg_id": "0dc3ec0f-1c98-40df-968c-0467cd928f70",
+        "text": "Got it — you want the *single main feature* that makes *Odoo Enterprise* stand out.\n:white_check_mark: *The MAIN feature of Odoo Enterprise is _Odoo Studio_* – a *drag-and-drop app builder &amp; UI customizer* that lets you:\n• Create custom fields, views, workflows, and reports *without coding*\n• Customize existing Odoo apps visually\n• Quickly prototype and deploy new business processes\nThis is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a *comparison table (Enterprise vs Community)* highlighting just the *top 5 differentiating features* (so you can present it to stakeholders)?",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jv592",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it — you want the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "single main feature",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that makes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Enterprise",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " stand out.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The MAIN feature of Odoo Enterprise is ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Studio",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " – a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "drag-and-drop app builder & UI customizer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that lets you:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create custom fields, views, workflows, and reports "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "without coding",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customize existing Odoo apps visually"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quickly prototype and deploy new business processes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "comparison table (Enterprise vs Community)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " highlighting just the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "top 5 differentiating features",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so you can present it to stakeholders)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758549023.252899",
+        "client_msg_id": "a3aa4092-554e-46e4-9c82-a1ad129cec0e",
+        "text": "Got it — you want the *single main feature* that makes *Odoo Enterprise* stand out.\n:white_check_mark: *The MAIN feature of Odoo Enterprise is _Odoo Studio_* – a *drag-and-drop app builder &amp; UI customizer* that lets you:\n• Create custom fields, views, workflows, and reports *without coding*\n• Customize existing Odoo apps visually\n• Quickly prototype and deploy new business processes\nThis is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a *comparison table (Enterprise vs Community)* highlighting just the *top 5 differentiating features* (so you can present it to stakeholders)?",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jv592",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it — you want the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "single main feature",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that makes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Enterprise",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " stand out.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The MAIN feature of Odoo Enterprise is ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Studio",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " – a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "drag-and-drop app builder & UI customizer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that lets you:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create custom fields, views, workflows, and reports "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "without coding",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customize existing Odoo apps visually"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quickly prototype and deploy new business processes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "comparison table (Enterprise vs Community)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " highlighting just the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "top 5 differentiating features",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so you can present it to stakeholders)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758549026.475749",
+        "client_msg_id": "0fde61e1-c254-4e55-b274-1d4df742df2b",
+        "text": "Got it — you want the *single main feature* that makes *Odoo Enterprise* stand out.\n:white_check_mark: *The MAIN feature of Odoo Enterprise is _Odoo Studio_* – a *drag-and-drop app builder &amp; UI customizer* that lets you:\n• Create custom fields, views, workflows, and reports *without coding*\n• Customize existing Odoo apps visually\n• Quickly prototype and deploy new business processes\nThis is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a *comparison table (Enterprise vs Community)* highlighting just the *top 5 differentiating features* (so you can present it to stakeholders)?",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jv592",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it — you want the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "single main feature",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that makes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Enterprise",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " stand out.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The MAIN feature of Odoo Enterprise is ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Studio",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " – a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "drag-and-drop app builder & UI customizer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that lets you:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create custom fields, views, workflows, and reports "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "without coding",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customize existing Odoo apps visually"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quickly prototype and deploy new business processes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "comparison table (Enterprise vs Community)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " highlighting just the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "top 5 differentiating features",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so you can present it to stakeholders)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758549027.975899",
+        "client_msg_id": "b7f84750-f03a-4505-a4ba-60d6d42b4c72",
+        "text": "Got it — you want the *single main feature* that makes *Odoo Enterprise* stand out.\n:white_check_mark: *The MAIN feature of Odoo Enterprise is _Odoo Studio_* – a *drag-and-drop app builder &amp; UI customizer* that lets you:\n• Create custom fields, views, workflows, and reports *without coding*\n• Customize existing Odoo apps visually\n• Quickly prototype and deploy new business processes\nThis is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a *comparison table (Enterprise vs Community)* highlighting just the *top 5 differentiating features* (so you can present it to stakeholders)?",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jv592",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it — you want the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "single main feature",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that makes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Enterprise",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " stand out.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The MAIN feature of Odoo Enterprise is ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Studio",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " – a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "drag-and-drop app builder & UI customizer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that lets you:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create custom fields, views, workflows, and reports "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "without coding",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customize existing Odoo apps visually"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quickly prototype and deploy new business processes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "comparison table (Enterprise vs Community)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " highlighting just the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "top 5 differentiating features",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so you can present it to stakeholders)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758549029.356699",
+        "client_msg_id": "32012e2a-d913-4598-8459-01014abed80e",
+        "text": "Got it — you want the *single main feature* that makes *Odoo Enterprise* stand out.\n:white_check_mark: *The MAIN feature of Odoo Enterprise is _Odoo Studio_* – a *drag-and-drop app builder &amp; UI customizer* that lets you:\n• Create custom fields, views, workflows, and reports *without coding*\n• Customize existing Odoo apps visually\n• Quickly prototype and deploy new business processes\nThis is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a *comparison table (Enterprise vs Community)* highlighting just the *top 5 differentiating features* (so you can present it to stakeholders)?",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jv592",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Got it — you want the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "single main feature",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that makes "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Enterprise",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " stand out.\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "The MAIN feature of Odoo Enterprise is ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Odoo Studio",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " – a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "drag-and-drop app builder & UI customizer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that lets you:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Create custom fields, views, workflows, and reports "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "without coding",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Customize existing Odoo apps visually"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Quickly prototype and deploy new business processes"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the biggest differentiator from the Community edition because it allows non-technical users (business analysts, project managers) to tailor Odoo to their organization easily — no deep development needed.\nWould you like me to create a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "comparison table (Enterprise vs Community)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " highlighting just the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "top 5 differentiating features",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " (so you can present it to stakeholders)?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09GVECV881",
+                "created": 1758549035,
+                "timestamp": 1758549035,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U09GBG7HFA7",
+                "user_team": "T09GV02BV0R",
+                "editable": false,
+                "size": 274037,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GVECV881\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GVECV881\/download\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_64.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_80.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_360.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 182,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_480.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 243,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_160.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_720.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 364,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_800.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 405,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_960.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 486,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVECV881-7fdfbe31a9\/image_1024.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 518,
+                "original_w": 1166,
+                "original_h": 590,
+                "thumb_tiny": "AwAZADDQNRJKroW6AHHNFwSE4baaifLuo5YBM8cbj6VaRDZOrK33WB+hpc4qAxfMHjHltnkHoR+FPSQOAVUkHPPpQA+SVY1BbJz6U\/NNFMt2JTlt3PWiw7j2APUA4qMxbkAfqDwR2\/SpTSUCGJHsz8zNn+8c07A7cfSlooAa4bb+7OD705VC8KAB7UUooGf\/2Q==",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/files\/U09GV02D42D\/F09GVECV881\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09GVECV881-1e2480b871",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U09GBG7HFA7",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758549039.600299",
+        "client_msg_id": "d94c4eb0-a92a-41d5-85b5-429473b3bc05"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09GFS39J06",
+                "created": 1758549073,
+                "timestamp": 1758549073,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U09GBG7HFA7",
+                "user_team": "T09GV02BV0R",
+                "editable": false,
+                "size": 574255,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GFS39J06\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GFS39J06\/download\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_64.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_80.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_360.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 170,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_480.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 227,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_160.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_720.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 340,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_800.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 378,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_960.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 454,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GFS39J06-d85e7e7857\/image_1024.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 484,
+                "original_w": 1789,
+                "original_h": 846,
+                "thumb_tiny": "AwAXADC3FCquGWNRgkZDk1Kd+whcFvU5ApY2DbsHOGIPtSJk7gxBw3agBMFlVclSMHgk\/rS\/8tT8x6dP60uf3u3P8OcUnWbPGAv+e3t6\/hQAq4IbDE8n8Kia3ikZWfljye2ePSpQSAd3OCenpRu5XHKmgBkcAjIxJIQOik8U9dxCk8eo\/wA5p1FACYPr39KQh8NgjORjjtx\/9enUUAMYkEqOuMqMf\/X\/AMKCx3R8ABuuevSg\/wCuX\/dP8xSS\/wCsh\/3\/AP2U0Af\/2Q==",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/files\/U09GV02D42D\/F09GFS39J06\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09GFS39J06-982140e887",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U09GBG7HFA7",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758549077.143689",
+        "client_msg_id": "932efda7-e753-4158-9127-cf7ba5bc5edf"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09GG0PAD4J",
+                "created": 1758549087,
+                "timestamp": 1758549087,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U09GBG7HFA7",
+                "user_team": "T09GV02BV0R",
+                "editable": false,
+                "size": 1071294,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GG0PAD4J\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GG0PAD4J\/download\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_64.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_80.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_360.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_480.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_160.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_720.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_800.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_960.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GG0PAD4J-31fa2f8fe9\/image_1024.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADDRYE4wcUhHI4NPpnOT6dqBiLnA3Kc9\/agg544\/DrRnPAI3DGR6Uv8Ae4\/LvxTENYDPC\/N2b0\/z\/WlxkEEAg9qCOTvwRg5OP8\/5FOxQMUqD1ANNAC7uMd8DOKfSFQf\/AK1IQgwAo5P1z+tDAbTnOPbNIoG1eM\/Wm9fN9jx+Q\/xoBaknelpoUDBxyOMnrTqAP\/\/Z",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/files\/U09GV02D42D\/F09GG0PAD4J\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09GG0PAD4J-744940035a",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U09GBG7HFA7",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758549092.141789",
+        "client_msg_id": "2cecf9d2-d9ea-4bb4-86b4-dc4fa1c61dd4"
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09H9UG8Z0Q",
+                "created": 1758549105,
+                "timestamp": 1758549105,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U09GBG7HFA7",
+                "user_team": "T09GV02BV0R",
+                "editable": false,
+                "size": 26598,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09H9UG8Z0Q\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09H9UG8Z0Q\/download\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09H9UG8Z0Q-a21fa63b09\/image_64.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09H9UG8Z0Q-a21fa63b09\/image_80.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09H9UG8Z0Q-a21fa63b09\/image_360.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360_w": 293,
+                "thumb_360_h": 172,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09H9UG8Z0Q-a21fa63b09\/image_160.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "original_w": 293,
+                "original_h": 172,
+                "thumb_tiny": "AwAdADCzHEEmztOAOOPXH\/1\/yqz8ucYGfpUQyHY72PAwoHT+lKFO4AvjjoKBkRhCzKFHAwelSOzK0fyqN3XPamycXCjzmBwPlx\/kU9lIZf3h\/Hv+VArkmB6CqskKmfAHByT7GppPlZAZCOfTrQx\/e\/ePTpj60ARqzhyViy2OfnFTAbiHJwQORkcUihQdwHJHPNKABnjr15oAQpG0gkJ5GBnP+fWlfZlWZgMdOaTYu0rgkE5OSaCiMoUjge9ACuqF0LkBh93nFDKpfcT8w4Az7UMqsysw5XpzSFE3F9vzeuaAP\/\/Z",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/files\/U09GV02D42D\/F09H9UG8Z0Q\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09H9UG8Z0Q-200caeeec4",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U09GBG7HFA7",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758549108.540879",
+        "client_msg_id": "615a115d-f413-4c41-b157-cd77d1d6211d"
+    },
+    {
+        "user": "U09GBG7HFA7",
+        "type": "message",
+        "ts": "1758549141.296859",
+        "client_msg_id": "3de25a45-2e92-4488-bd6d-8ca295199d32",
+        "text": "These are the supporting material",
+        "team": "T09GV02BV0R",
+        "user_team": "T09GV02BV0R",
+        "source_team": "T09GV02BV0R",
+        "user_profile": {
+            "avatar_hash": "g35acef00ed3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/35acef00ed384c325446d1ae095e06f5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Aashir",
+            "real_name": "Aashir",
+            "display_name": "Aashir",
+            "team": "T09GV02BV0R",
+            "name": "asher.rizwan",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xn0nv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are the supporting material"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "",
+        "files": [
+            {
+                "id": "F09GVESR56V",
+                "created": 1758549155,
+                "timestamp": 1758549155,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U09GBG7HFA7",
+                "user_team": "T09GV02BV0R",
+                "editable": false,
+                "size": 247675,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GVESR56V\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T09GV02BV0R-F09GVESR56V\/download\/image.png?token=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_64.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_80.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_360.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 219,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_480.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 291,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_160.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_720.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 437,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_800.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 486,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_960.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 583,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T09GV02BV0R-F09GVESR56V-0ef34d3a8a\/image_1024.png?t=xoxe-9573002403025-9592543263232-9560664282053-d75fc1dbb515886c3f7137046b114e8c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 622,
+                "original_w": 1403,
+                "original_h": 852,
+                "thumb_tiny": "AwAeADDTFNDgkjDZHqKdTVGHJy3PYjj86AF5HcmhW3DOCB7ij9aRQAvGfyxQAF8HGD+ApcZwCc96ax+Yfe7cjkf5\/wA5p\/egAqNV\/eElSPx4\/wA\/hUlRK6faGQBgwGTzxQBIQGGCDgHNNXKx\/dbPp3\/n\/WndR0zz3psTq0QZd20+p5oAHBJXA6EE\/wCcj+v0p3ccGmvjgkdxjBoL4dVPUjqKAP\/Z",
+                "permalink": "https:\/\/odoo-testing-group.slack.com\/files\/U09GV02D42D\/F09GVESR56V\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T09GV02BV0R-F09GVESR56V-00be7e33ac",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U09GBG7HFA7",
+        "display_as_bot": false,
+        "type": "message",
+        "ts": "1758549160.193129",
+        "client_msg_id": "caae613e-32cc-48e4-bcd2-feb4dc628360"
+    }
+]

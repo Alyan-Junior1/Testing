@@ -1,0 +1,2 @@
+datas_fname --> not in odoo 19 ( save the same name )
+mail.channel is not odoo 19 convert into discuss.channel
